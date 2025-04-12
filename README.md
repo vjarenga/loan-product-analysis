@@ -4,7 +4,7 @@ This project analyzes loan data from a potential acquisition focused on serving 
 # Project Goals
 Identify key features of the lending product
 
-Visualize performance trends using BI tools
+Visualize performance trends using Power BI 
 
 Define and analyze key performance metrics
 
